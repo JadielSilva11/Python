@@ -1,2 +1,2 @@
-# Pythonn!
+# Python
  Códigos em linguagem python
