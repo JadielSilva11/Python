@@ -1,2 +1,2 @@
-# Python-Projects
+# Python
  Códigos em linguagem python
